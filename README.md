@@ -2,9 +2,12 @@ This project contains different kind of deadlock code scenario that developer wi
 
 Each folder are structured as follows:
 
-* `problemX` - each folder contains README.md that explain about the concurrency problem and solution
-* `problematic` - folder contains the deadlock error code
-* `solution` - folder contains the proper solution to resolve the issue. Sometimes it contains multiple solution for a problem
+* `problemX` - each folder contains `README.md` that explains about the concurrency problem and solution
+  
+Inside each `problemX` folder there are sub-folders as follows:
+
+* `problematic` - this folder contains code that that throws the deadlock error code
+* `solution` - this folder contains the proper solution to resolve the issue. Sometimes it contains multiple solution for a problem
 
 The concurrency problem collected in this repo are from different variety of source from the internet - user groups, slack channel, github, etc
 
