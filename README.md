@@ -11,3 +11,5 @@ The concurrency problem collected in this repo are from different variety of sou
 Here are some very good resource to learn more about concurrency in Golang:
 
 * [Golang — Understanding channel, buffer, blocking, deadlock and happy groutines.](https://gist.github.com/YumaInaura/8d52e73dac7dc361745bf568c3c4ba37)
+  https://dtyler.io/articles/2021/04/13/sync_cond/
+  https://github.com/dty1er/size-limited-queue
